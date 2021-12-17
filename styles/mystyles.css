@@ -1,0 +1,61 @@
+div.b {text-align: left;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+    font-style:bold;
+    font-family:sans-serif
+}
+
+h3 {
+    font-style:italic;
+    color:rgb(121,84,80)
+}
+
+h4 {
+    font-weight: 600;
+    font-family:sans-serif;
+    color: rgb(121,84,80)
+}
+
+a:link {
+  color: rgb(0, 0, 202);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(127, 58, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+video {
+    align-items: center;
+}
+
+body {
+  background-image: url(../images/white-waves.png);
+  
+}
+
+iframe.video {
+  left: 10%;
+  position:relative;
+  padding-bottom: 15px;
+}
